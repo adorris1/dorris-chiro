@@ -1,0 +1,38 @@
+{
+  "name": "easy-flux-example",
+  "version": "1.0.0",
+  "description": "buddy",
+  "main": "app.js",
+  "dependencies": {
+    "babelify": "^7.2.0",
+    "browserify": "^12.0.1",
+    "events": "^1.1.0",
+    "flux": "^2.1.1",
+    "gulp": "^3.9.0",
+    "gulp-uglify": "^1.5.1",
+    "gulp-rename": "^1.2.2",
+    "lodash": "^3.10.1",
+    "react": "^0.14.3",
+    "run-sequence": "^1.1.5",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "devDependencies": {
+    "webpack": "^1.12.9"
+  },
+  "scripts": {
+    "test": "buddy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adorris1/dorris-chiro.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "adorris1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adorris1/dorris-chiro/issues"
+  },
+  "homepage": "https://github.com/adorris1/dorris-chiro#readme"
+}

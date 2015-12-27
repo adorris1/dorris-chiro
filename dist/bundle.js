@@ -29,11 +29,11 @@ var _react = require('react');
 
 var _react2 = _interopRequireDefault(_react);
 
-var _ListStore = require('../stores/ListStore');
+var _ListStore = require('./ListStore');
 
 var _ListStore2 = _interopRequireDefault(_ListStore);
 
-var _AppDispatcher = require('../dispatcher/AppDispatcher');
+var _AppDispatcher = require('./AppDispatcher');
 
 var _AppDispatcher2 = _interopRequireDefault(_AppDispatcher);
 
@@ -156,7 +156,7 @@ var _react = require('react');
 
 var _react2 = _interopRequireDefault(_react);
 
-var _AppDispatcher = require('../dispatcher/AppDispatcher');
+var _AppDispatcher = require('./AppDispatcher');
 
 var _AppDispatcher2 = _interopRequireDefault(_AppDispatcher);
 
@@ -242,7 +242,7 @@ Object.defineProperty(exports, "__esModule", {
 
 var _flux = require('flux');
 
-var _ListStore = require('../stores/ListStore');
+var _ListStore = require('./ListStore');
 
 var _ListStore2 = _interopRequireDefault(_ListStore);
 
